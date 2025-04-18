@@ -1,6 +1,8 @@
-# AI Algorithms Dashboard
+# Soft Computing Algorithms Dashboard
 
 A comprehensive implementation of two artificial intelligence approaches: Genetic Algorithms for solving the Travelling Salesman Problem and Fuzzy Logic for a washing machine controller. This project integrates both techniques into a single interactive dashboard.
+
+Developed By Asher, Sanidhya, Dhruv, Aditya under Dr. Aloke Datta
 
 ## Project Overview
 
