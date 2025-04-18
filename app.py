@@ -178,7 +178,7 @@ if (streamlitContainer) {
 """, unsafe_allow_html=True)
 
 # App header
-st.markdown('<h1 class="main-header">AI Algorithms Dashboard</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">Soft Computing Algorithms Dashboard</h1>', unsafe_allow_html=True)
 
 # App navigation
 app_selection = st.sidebar.radio(
