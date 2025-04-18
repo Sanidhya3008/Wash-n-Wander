@@ -200,7 +200,7 @@ if 'improvement' not in st.session_state:
 if app_selection == "Home":
     st.markdown("""
     <div class="info-text">
-    Welcome to the Soft Computing Algorithms Dashboard! This application demonstrates two different AI techniques:
+    Welcome to the Soft Computing Algorithms Dashboard! This application demonstrates two different Soft Computing techniques:
     
     1. **Genetic Algorithm** - Solving the Travelling Salesman Problem
     2. **Fuzzy Logic** - Controlling a washing machine based on dirtiness and grease levels
