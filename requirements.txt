@@ -6,3 +6,4 @@ plotly
 scikit-fuzzy
 seaborn
 scipy
+networkx
